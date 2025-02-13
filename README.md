@@ -27,8 +27,8 @@ A conversational AI chatbot powered by **Gemini Pro API**. This chatbot can enga
 ### 1 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/gemini-pro-chatbot.git
-cd gemini-pro-chatbot
+git clone <repository-url>
+cd <repository-folder>
 ```
 
 ### 2 Install the Dependencies
